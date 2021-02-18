@@ -1,1 +1,1 @@
-# stock-price-analysis-project
+# stock-market-analysis-project
